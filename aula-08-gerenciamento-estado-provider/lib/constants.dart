@@ -1,0 +1,1 @@
+const background = "assets/images/travel2.png";
