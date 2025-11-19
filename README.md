@@ -8,7 +8,7 @@ Este repositório contém projetos desenvolvidos durante o curso de Flutter, exp
 **Contador com Gerenciamento de Estado**
 
 <div align="center">
-  <img src="docs/images/app1-counter.svg" alt="App Contador" width="300"/>
+  <img src="docs/images/app1-counter.png.svg" alt="App Contador" width="300"/>
 </div>
 
 Aplicativo simples que demonstra o uso do Provider para gerenciamento de estado em Flutter.
@@ -34,7 +34,7 @@ lib/
 **Formulário com TextFormField e ListView**
 
 <div align="center">
-  <img src="docs/images/app2-explorers.svg" alt="App Exploradores" width="600"/>
+  <img src="docs/images/app2-explorers.png.svg" alt="App Exploradores" width="600"/>
 </div>
 
 Aplicativo que cadastra exploradores através de um formulário e exibe a lista em tempo real.
@@ -60,7 +60,7 @@ lib/
 **Gerenciamento de Estado em Tela de Login**
 
 <div align="center">
-  <img src="docs/images/app3-login.svg" alt="App Login" width="300"/>
+  <img src="docs/images/app3-login.png.svg" alt="App Login" width="300"/>
 </div>
 
 Tela de login com gerenciamento de estado de loading e validação de campos.
@@ -90,7 +90,7 @@ lib/
 **Persistência de Dados com SQLite**
 
 <div align="center">
-  <img src="docs/images/app4-tasks.svg" alt="App Tasks" width="300"/>
+  <img src="docs/images/app4-tasks.png.svg" alt="App Tasks" width="300"/>
 </div>
 
 Aplicativo de lista de tarefas com persistência em banco de dados local usando SQLite.
